@@ -1,0 +1,52 @@
+.gap {
+  padding: 0;
+  margin-top: -15px;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+}
+
+.in {
+  text-align: center;
+
+  padding-top: 20px;
+}
+
+.lin {
+  width: 40%;
+  height: 250px;
+  margin: auto;
+  background-color: white;
+  border-radius: 25px;
+}
+
+.lik {
+  text-align: center;
+  width: 90%;
+  margin: 10px auto;
+}
+
+.ok {
+  display: inline-flex;
+}
+
+.txt {
+  text-align: right;
+}
+
+.button {
+  font: inherit;
+  text-decoration: none;
+  background-color: #240370;
+  color: white;
+  border: 1px solid #240370;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+  background-color: #33059e;
+  border-color: #33059e;
+}
